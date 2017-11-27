@@ -1,22 +1,28 @@
 {
-  "name": "mtm6330-week5",
-  "version": "1.0.0",
-  "description": "Bootstrap demo",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "title": "Allison Buffam",
+  "name": "buff0039_midterm_020_mtm6330",
+  "version": "4.0.0-beta.2",
+  "description": "My name is Allison Buffam, and this is Allison's Secret",
+  "keywords": [
+    "css",
+    "sass",
+    "html",
+    "responsive",
+    "theme",
+    "template"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio.git"
   },
-  "author": "Robert McKenney <robert@mckenney.ca>",
-  "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "font-awesome": "4.7.0",
+    "jquery": "^3.2.1",
+    "jquery.easing": "^1.4.1"
+  },
   "devDependencies": {
-    "autoprefixer": "^7.1.4",
-    "bootstrap": "^4.0.0-beta",
-    "cssnano": "^3.10.0",
-    "gulp": "^3.9.1",
-    "gulp-postcss": "^7.0.0",
-    "gulp-sass": "^3.1.0",
-    "jquery": "^3.0.0",
-    "popper.js": "^1.11.0"
+    "browser-sync": "2.18.13",
+    "gulp": "^3.9.1"
   }
 }
